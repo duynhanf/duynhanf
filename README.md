@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Target 2023
+### Acquired Certifications
 
 - [ ] Associate Cloud Engineer Certification
 - [ ] Professional Cloud Developer Certification
